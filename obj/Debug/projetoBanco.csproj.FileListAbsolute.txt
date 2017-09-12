@@ -8,3 +8,5 @@ C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projeto
 C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.exe
 C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.pdb
 C:\Users\douglas.jose\Documents\Visual Studio 2015\Projects\projetoBanco\projetoBanco\obj\Debug\projetoBanco.FormCadastroConta.resources
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.exe
+C:\Users\douglasjtds\Desktop\FACULDADE\Rumo Soluções\projetos\projetoBanco\projetoBanco\obj\Debug\projetoBanco.pdb
